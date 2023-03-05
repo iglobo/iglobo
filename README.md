@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**iglobo/iglobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Igor Lobo
+* Actualmente **Project Manager** en *GIR Loyalty & Promotions*
+* Anteriormente **Product Manager** en *beruby España*
+* Cursando el Bootcamp Javascript Full-Stack de [Undefined Achademy](https://undefined.academy/)
+***
+5 comandos de Terminal favoritos:
+| Comando | Descripción |
+| ------ | ------ |
+| pwd | Muestra la ruta en la que te encuentras actualmente |
+| ls | Lista todos los elementos en la ruta actual |
+| mkdir | Crea una nueva carpeta en la ruta actual, con el nombre que le proporciones (mkdir nuevacarpeta) |
+| code | Abre Visual Studio Code desde la propia terminal |
+| cd | Permite moverse entre directorios del sistema |
+***
+2 alias favoritos:
+| Alias | Comando equivalente | Descripción |
+| ------ | ------ | --- |
+| stz | Set-TimeZone | Establece la zona horaria |
+| ri |  Remove-Item | Elimina el elemento actual
